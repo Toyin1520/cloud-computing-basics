@@ -7,3 +7,5 @@ STEP 3 : Select account type AWS offers two account types[personal or profession
 STEP 4 : Add a payment method, enter credit or debit card details.
 STEP 5 : Verify your identity.
 STEP 6 : Choose a plan
+
+Copmaring pricing of a service across different region  varies due to factors like operational cost, demands, local regulations , compute and storage.
